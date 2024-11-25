@@ -97,7 +97,3 @@ End-of-sprint reviews provide essential feedback, but manually compiling these s
 
 ---
 
-You can now copy and paste this into your `README.md` file. It organizes all sections cohesively, ensuring the **Setup Instructions** flow naturally within the documentation.
-
-
-
